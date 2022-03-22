@@ -1,6 +1,6 @@
-Je suis fatigué par vos idées de merde
+Documentation du bot
 ===================================
-Bonjour les jeunes
+Ci-joint la documentation de Panda-Roux
 
 .. note::
 
